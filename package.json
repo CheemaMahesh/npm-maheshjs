@@ -1,6 +1,6 @@
 {
   "name": "maheshjs",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "This package helps you in solving day to day various simple challenges and makes you write code faster",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
