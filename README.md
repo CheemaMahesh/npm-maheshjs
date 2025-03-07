@@ -1,7 +1,6 @@
 # maheshjs<br/>
 
 ![npm](https://img.shields.io/npm/v/maheshjs)<br/>
-![license](https://img.shields.io/badge/license-MIT-blue.svg)<br/>
 
 ## Introduction<br/>
 `maheshjs` is a utility library that provides a set of functions for common operations such as string manipulation, random number generation, and mathematical calculations. This package is designed to simplify your coding tasks and improve productivity.<br/>
